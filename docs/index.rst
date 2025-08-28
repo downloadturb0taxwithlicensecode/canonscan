@@ -18,31 +18,32 @@ Step-by-Step Guide to Set Up Your Canon Printer via canon.com/ijsetup
 ----------------------------------------------------------------------------------------------
 1. Visit canon.com/ijsetup
 -----------------------------------------------
-Open a browser and go to canon.com/ijsetup
+* Open a browser and go to canon.com/ijsetup
 
-This is Canon’s official site for printer setup and driver downloads.
+* This is Canon’s official site for printer setup and driver downloads.
 
 2. Enter Your Printer Model
 -----------------------------------------------
-Type your Canon printer model in the search box.
+* Type your Canon printer model in the search box.
 
-Select your device from the suggestions or results.
+* Select your device from the suggestions or results.
 
 3. Download the Recommended Drivers
 -----------------------------------------------
-Choose the appropriate driver and software package for your operating system.
+* Choose the appropriate driver and software package for your operating system.
 
-Click “Download” to begin downloading the setup file.
+* Click “Download” to begin downloading the setup file.
 
 4. Run the Setup File
 -----------------------------------------------
-Open the downloaded file to start installation.
+* Open the downloaded file to start installation.
 
-Follow the on-screen instructions to connect your printer via USB or Wi-Fi.
+* Follow the on-screen instructions to connect your printer via USB or Wi-Fi.
 
 5. Complete Installation and Test Print
 -----------------------------------------------
-Finish the setup and confirm your printer appears under "Devices and Printers."
+* Finish the setup and confirm your printer appears under "Devices and Printers."
 
-Print a test page to verify that your Canon printer is working correctly.
+* Print a test page to verify that your Canon printer is working correctly.
+
 
