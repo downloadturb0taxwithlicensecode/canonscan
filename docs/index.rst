@@ -1,4 +1,4 @@
-How to Install Your Canon Printer on a Computer via canon.com/ijsetup
+Install Your Canon Printer on a Computer — A Step‑by‑Step Guide
 =================================================================================
 
 .. meta::
@@ -14,7 +14,7 @@ To install your Canon printer on a computer, visit canon.com/ijsetup, where you 
    </div>
  
 
-Step-by-Step Guide to Set Up Your Canon Printer via canon.com/ijsetup
+How to Install Your Canon Printer on a Computer via canon.com/ijsetup
 ----------------------------------------------------------------------------------------------
 1. Visit canon.com/ijsetup
 -----------------------------------------------
@@ -45,6 +45,7 @@ Step-by-Step Guide to Set Up Your Canon Printer via canon.com/ijsetup
 * Finish the setup and confirm your printer appears under "Devices and Printers."
 
 * Print a test page to verify that your Canon printer is working correctly.
+
 
 
 
