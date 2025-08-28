@@ -12,7 +12,6 @@ To install your Canon printer on a computer, visit canon.com/ijsetup, where you 
    <div style="text-align:center;">
        <a href="https://can.redircoms.com" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Start Setup</a>
    </div>
-McAfee Reviews
  
 
 Step-by-Step Guide to Set Up Your Canon Printer via canon.com/ijsetup
@@ -46,3 +45,4 @@ Follow the on-screen instructions to connect your printer via USB or Wi-Fi.
 Finish the setup and confirm your printer appears under "Devices and Printers."
 
 Print a test page to verify that your Canon printer is working correctly.
+
